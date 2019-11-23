@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="about_us_acercade">Acerca de...</string>
+    <string name="about_us_reporteventa">Esta aplicacion es para reporte de ventas</string>
+    <string name="about_us_autores">Autores.</string>
+    <string name="about_us_JuanitoAlcachofa">Juanito Alcachofa</string>
 </resources>
